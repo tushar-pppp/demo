@@ -1,3 +1,3 @@
 # demo
-my first git <br>
+my first git 
 <span style="color:red">tushar padgelwar</span>
